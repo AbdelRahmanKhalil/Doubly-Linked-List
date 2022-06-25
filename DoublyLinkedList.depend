@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554558914 source:e:\doublylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554559818 source:e:\work\older drive\old\doublylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
